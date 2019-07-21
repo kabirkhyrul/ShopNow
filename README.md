@@ -1,4 +1,6 @@
 # ShopNow  
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkabirkhyrul%2FShopNow.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkabirkhyrul%2FShopNow?ref=badge_shield)
+
 
 (Be Advised: This Project is Under Development.)
 
@@ -148,3 +150,7 @@ or translating any document here to your language.
 [Supervisor & Mentor]:#Supervisor-&-Mentor
 [Contributors]:#contributors
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkabirkhyrul%2FShopNow.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkabirkhyrul%2FShopNow?ref=badge_large)
